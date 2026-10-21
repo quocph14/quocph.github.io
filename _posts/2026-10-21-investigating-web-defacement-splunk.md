@@ -2,8 +2,8 @@
 title: "Investigating a Web Site Defacement with Splunk"
 date: 2026-10-21 10:00:00 +0700
 categories:
-  - Cybersecurity
-  - Splunk
+  - SOC Analysis
+  - Boss of the SOC Version 1 (2015) - Web Site Defacement
 ---
 
 ## Introduction
