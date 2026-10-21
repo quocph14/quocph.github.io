@@ -9,7 +9,6 @@ order: 2
 {% assign certs = site.certifications | sort: "date" | reverse %}
 
 {% for cert in certs %}
-## [{{ cert.title }}]({{ cert.url | relative_url }})
-
+## {{ cert.title }}
 {{ cert.content }}
 {% endfor %}
