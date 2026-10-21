@@ -4,12 +4,7 @@ date: 2026-10-21 10:00:00 +0700
 categories:
   - Cybersecurity
   - Splunk
-tags:
-  - SOC
-  - Incident Response
-  - Threat Hunting
-  - Sysmon
-  - BOTS
+
 ---
 
 ## Introduction
