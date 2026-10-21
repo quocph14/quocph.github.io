@@ -180,6 +180,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  certifications:
+    output: true
+    sort_by: date
 
 defaults:
   - scope:
