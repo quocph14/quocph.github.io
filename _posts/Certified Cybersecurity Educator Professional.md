@@ -5,7 +5,7 @@ categories: [Certifications]
 tags: [ccep]
 ---
 
-![CCEP Certificate](/assets/img/certs/Certified Cybersecurity Educator Professional.jpg){: width="600" }
+![CCEP Certificate](/assets/img/certs/ccep.jpg){: width="600" }
 _Red Team Leaders, issued October 16, 2026_
 
 [Verify certificate](https://courses.redteamleaders.com/exam-completion/b46e7541eb0e7e0a)
